@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush KUmar</h1>
 <h3 align="center">FULL STACK DEVELOPER |FlUTTER DEVELOPER|WIX DEVELOPER| GRAPHIC DESIGNER | DIGITAL MARKERTER</h3>
+<br>
+<p>A Dedicated Third-Year B.Tech Computer Science Engineering Student and Passionate Coding Enthusiast. Driven by a deep love for technology and programming, excels in coding and is continuously exploring new areas in computer science. With a commitment to innovation and learning, I strives to solve complex problems and contribute to the ever-evolving field of technology."
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
